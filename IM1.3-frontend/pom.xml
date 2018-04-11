@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.intermon</groupId>
-    <artifactId>IM1.3-fronten</artifactId>
+    <artifactId>IM1.3-frontend</artifactId>
     <version>1.0</version>
 
     <properties>
@@ -67,7 +67,7 @@
     </dependencies>
 
     <build>
-        <finalName>fronten</finalName>
+        <finalName>frontend</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>

@@ -1,7 +1,7 @@
 package com.github.intermon;
 
 /**
- * Created by VSkurikhin at winter 2018.
+ * Created by VSkurikhin at Sun Apr 15 13:20:37 MSK 2018.
  */
 
 public class Main {
